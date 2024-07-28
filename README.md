@@ -5,7 +5,7 @@ src="https://cardivo.vercel.app/api?name=UMAR%20BUG&description=UD%20BUG%20BOT%2
 ### 1. <a href="https://github.com/Um4r719/UD-BUG/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork UD-BUG" width="70"></a>
 ### 2. <a href='https://replit.com/github/Um4r719/UD-BUG' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ## Watch Tutorial videos.
-* [![YOUTUBE SOON](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](SOON)
+* [![YOUTUBE SOON](https://img.shields.io/badge/Video_soon-red?style=for-the-badge&logo=youtube&logoColor=white)](SOON)
 
 
 </br>
